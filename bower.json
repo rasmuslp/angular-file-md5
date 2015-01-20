@@ -17,7 +17,8 @@
     "angular",
     "file",
     "md5",
-    "hash"
+    "hash",
+    "checksum"
   ],
   "license": "MIT",
   "ignore": [

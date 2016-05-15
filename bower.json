@@ -29,7 +29,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.2.x || 1.3.x",
-    "spark-md5": "~0.0.5"
+    "angular": "^1.2.0",
+    "spark-md5": "^2.0.0"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "angular-file-md5",
   "description": "AngularJS service for calculating MD5 hashes of files",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/rasmuslp/angular-file-md5",
   "authors": [
     "Rasmus Ljungmann Pedersen <rasmuslp@gmail.com> (http://ljungmann.net)"

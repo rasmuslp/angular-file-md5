@@ -1,0 +1,37 @@
+{
+  "name": "angular-file-md5",
+  "version": "0.1.0",
+  "description": "AngularJS service for calculating MD5 hashes of files",
+  "main": "angular-file-md5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmuslp/angular-file-md5.git"
+  },
+  "author": "Rasmus Ljungmann Pedersen <rasmuslp@gmail.com> (http://ljungmann.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasmuslp/angular-file-md5/issues"
+  },
+  "homepage": "https://github.com/rasmuslp/angular-file-md5#readme",
+  "keywords": [
+    "angular.js",
+    "angularjs",
+    "angular",
+    "file",
+    "md5",
+    "hash",
+    "checksum"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.2.0",
+    "spark-md5": "^2.0.0"
+  }
+}

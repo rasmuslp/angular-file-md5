@@ -2,8 +2,8 @@
 AngularJS service for calculating MD5 hashes of files.
 
 ### Dependencies
-- [SparkMD5](https://github.com/satazor/SparkMD5)
 - [AngularJS](https://angularjs.org)
+- [SparkMD5](https://github.com/satazor/SparkMD5)
 
 ### Communication
 
@@ -14,20 +14,17 @@ AngularJS service for calculating MD5 hashes of files.
 
 ## Quick start
 
-### Install
+### Installation
+Pick one of the below:
+* Through [Bower](http://bower.io): `$ bower install angular-file-md5 --save`
+* Through [NPM](https://www.npmjs.com): `$ npm install angular-file-md5 --save`
 
-Install AngularFileMD5 with [Bower](http://bower.io).
-
-```bash
-$ bower install angular-file-md5 --save
-```
-
-Include the required libraries in your `index.html`:
+Include the required libraries:
 
 ```html
-<script src="bower_components/spark-md5/spark-md5.js"></script>
-<script src="bower_components/angular/angular.js"></script>
-<script src="bower_components/angular-file-md5/angular-file-md5.js"></script>
+<script src="components/spark-md5/spark-md5.js"></script>
+<script src="components/angular/angular.js"></script>
+<script src="components/angular-file-md5/angular-file-md5.js"></script>
 ```
 
 Inject the `ljungmann.fileMd5` module into your app:

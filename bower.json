@@ -11,6 +11,11 @@
     "url": "https://github.com/rasmuslp/angular-file-md5.git"
   },
   "main": "angular-file-md5.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
   "keywords": [
     "angular.js",
     "angularjs",
